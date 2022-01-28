@@ -1,1 +1,25 @@
 Dictionary
+
+Raesfeld | Raesfield
+Flughafen | airport
+Berlin | Berlin
+Bratwurst | bratwurst
+Hauptstrasse | main road
+Brot | bread
+Klimaanlage | air conditioner
+Rammstein | Rammstein
+Porsche | Porche
+BMW | BMW
+Biergarten | beer garden
+Ratskeller | Ratskeller
+Dirndel | dirndl
+Lederhose | leather pants
+Schloss | castle
+wettbewerbsfaehig | competitive
+Mehlhase | flour bunny
+Gebaeck | pastries
+Baeckerei | bakery
+Hund | dog
+DÃ¶ner | doner kebab
+Apfelkuchen | apple cake
+Eltz | Eltz
